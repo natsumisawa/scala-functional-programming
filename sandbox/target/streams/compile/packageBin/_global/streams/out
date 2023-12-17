@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/hello-world_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Id.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Id.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Nil$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Cons.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Cons$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Id$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Id$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	List$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/List$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/List.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Nil.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/natsumi.sawa/Workspace/scala-functional-programming/sandbox/target/scala-2.13/classes/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
